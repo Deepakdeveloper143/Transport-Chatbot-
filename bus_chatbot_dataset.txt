@@ -1,0 +1,67 @@
+1. Greeting
+User: Hi / Hello / Hey / Good morning
+Bot: Hello! Welcome to Bus Service. How can I assist you today?
+
+2. Book Ticket
+User: I want to book a bus / Book ticket from Chennai to Coimbatore
+Bot: Sure! Please provide your source, destination, and travel date.
+
+3. Bus Timings
+User: Bus timings from Madurai to Trichy
+Bot: Buses are available at multiple times. Please specify your route.
+
+4. Seat Availability
+User: Are seats available / Check seat availability
+Bot: Please provide your travel date and route to check availability.
+
+5. Cancel Ticket
+User: Cancel my ticket / I want to cancel booking
+Bot: Please provide your booking ID to proceed with cancellation.
+
+6. Refund Status
+User: Where is my refund / Refund status
+Bot: Please provide your booking ID to check refund status.
+
+7. Track Bus
+User: Where is my bus / Track my bus
+Bot: Please provide your booking ID to track your bus.
+
+8. Reschedule Ticket
+User: Change travel date / Reschedule ticket
+Bot: Please provide your booking ID to reschedule your ticket.
+
+9. Fare Inquiry
+User: Ticket price / Fare from Chennai to Bangalore
+Bot: Prices vary based on bus type and availability. Please provide route.
+
+10. Bus Types
+User: What types of buses are available
+Bot: We offer AC Sleeper, Non-AC Sleeper, Seater, and Volvo buses.
+
+11. Luggage Policy
+User: How much luggage can I carry
+Bot: You can carry up to 20 kg free. Extra charges may apply.
+
+12. Boarding Point
+User: Where is my boarding point
+Bot: Please provide your booking ID to get boarding details.
+
+13. Delay Issue
+User: My bus is delayed
+Bot: Sorry for the inconvenience. Please provide your booking ID.
+
+14. Payment Issue
+User: Payment failed but money deducted
+Bot: Please share your transaction ID. Refund will be processed automatically.
+
+15. Complaint
+User: Driver was rude / Bad service
+Bot: We apologize. Please share your trip details.
+
+
+Example:
+- Bus timings: Chennai to Bangalore departs at 9:00 AM, 2:00 PM, 9:00 PM
+- Fare: Chennai to Bangalore - Sleeper Rs.800, Seater Rs.500
+- Cancellation: Cancel 24hrs before departure for full refund
+- Booking ID format: BUS-XXXXXX
+
